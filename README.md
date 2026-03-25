@@ -32,3 +32,8 @@ GUI可视化实现
 ![时域频域分析](intro/p7.png)
 
 © JackHCC
+
+
+### 扩展：校园自行车智能检测系统路线图
+
+新增了一个可直接用于组会/毕设的技术路线文档：`BIKE_REALTIME_DEPLOYMENT_ROADMAP.md`。
